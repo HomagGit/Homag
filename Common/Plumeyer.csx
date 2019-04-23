@@ -5,6 +5,6 @@ public class Plumeyer : HomagGroup.FLS.Infrastructure.Common.Customization.UserE
     
     public void Execute(string receivedMessage, string parameter, HomagGroup.FLS.Services.Common.Service.Messaging.Provider.CustomScannerMessageHandler handler)
     {
-        throw new NotImplementedException();
+       
     }
 }
